@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Dataset Saham Indonesia / Indonesia Stock Dataset` |
+| Sumber | `https://www.kaggle.com/datasets/muamkh/ihsgstockdata` |
+| Lisensi/ketentuan pakai | `Open Database License (ODbL) / Public Domain` |
+| Ukuran | `~4.02 GB (uncompressed) / > 2.000.000 baris (2.418 file CSV)` |
+| Periode data | `2021 - 2023` |
+| Unit analisis | `Pergerakan harga dan volume transaksi saham per menit/jam/hari per emiten` |
 
 ## Tempat Mencari Dataset
 
